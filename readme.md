@@ -15,7 +15,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'glorious-codes/glorious-demo' -->
@@ -31,7 +31,7 @@
 
 <!-- doc-templite END generated -->
 
-- [ ] [存储库维基百科](https://github.com/chinanf-boy/glorious-demo-zh/wiki)
+- [x] [存储库维基百科](https://github.com/chinanf-boy/glorious-demo-zh/wiki)
 
 ### 贡献
 
@@ -43,12 +43,7 @@
 
 ---
 
-### 目录
-
-<!-- START doctoc -->
-<!-- END doctoc -->
-
-# glorious的演示
+# glorious 的演示
 
 > 演示代码的最简单方法.
 
@@ -58,6 +53,25 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4738687/44633197-01fa4900-a95e-11e8-9b53-66e9043e2533.gif" />
 </p>
+
+### 目录
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [安装](#%E5%AE%89%E8%A3%85)
+- [基本用法](#%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95)
+  - [API](#api)
+    - [`openApp`](#openapp)
+    - [`write`](#write)
+    - [`command`](#command)
+    - [`respond`](#respond)
+    - [`end`](#end)
+- [贡献](#%E8%B4%A1%E7%8C%AE)
+- [测试](#%E6%B5%8B%E8%AF%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 安装
 
@@ -72,7 +86,7 @@ npm install @glorious/demo --save
 <script src="node_modules/@glorious/demo/dist/gdemo.min.js"></script>
 ```
 
-_注意:如果您不使用包管理器,请从第三方[CDN 提供商](https://github.com/rafaelcamargo/glorious-demo/wiki/CDN-Providers)加载._
+_注意:如果您不使用包管理器,请从第三方[CDN 提供商](https://github.com/chinanf-boy/glorious-demo-zh/wiki/CDN-Providers-zh)加载._
 
 ```javascript
 // 构造函数,接收 selector 的 指示
@@ -97,7 +111,7 @@ demo
   .end();
 ```
 
-_注意:查看[这里](https://github.com/rafaelcamargo/glorious-demo/wiki/Syntax-highlight)知道如何使用 Prism 来高亮您的代码._
+_注意:查看[这里](https://github.com/chinanf-boy/glorious-demo-zh/wiki/Syntax-highlight-zh)知道如何使用 Prism 来高亮您的代码._
 
 ### API
 
