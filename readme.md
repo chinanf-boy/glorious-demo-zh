@@ -31,6 +31,8 @@
 
 <!-- doc-templite END generated -->
 
+- [ ] [存储库维基百科](https://github.com/chinanf-boy/glorious-demo-zh/wiki)
+
 ### 贡献
 
 欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
