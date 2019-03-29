@@ -21,10 +21,9 @@
 <!-- repo = 'glorious-codes/glorious-demo' -->
 <!-- commit = '5d43a5166803eba6fc5525979f6441569793332b' -->
 <!-- time = '2018-11-09' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-11-09 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-11-09 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/glorious-codes/glorious-demo.svg
 [commit]: https://github.com/glorious-codes/glorious-demo/tree/5d43a5166803eba6fc5525979f6441569793332b
@@ -39,7 +38,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
